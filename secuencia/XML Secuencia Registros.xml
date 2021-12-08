@@ -1,0 +1,20 @@
+<addresses>
+	<address>
+		<name>Sr. Francisco Ansó García</name>
+		<street>Calle Lucas Rey Kalea, 15, 5ºB</street>
+		<postalCode>01468 Amurrio<postalCode>
+		<province>Álava</province>
+	</address>
+	<address>
+		<name>Dña. Antonia Fernandez Garcia</name>
+		<street>Av. de las Delicias, 14, 1º Dcha.</street>
+		<postalCode>15810  Arzúa<postalCode>
+		<province>La Coruña</province>
+	</address>
+	<address>
+		<name>Sr. Raúl Peña Peña</name>
+		<street>Calle Murcia, 22, Bajo C</street>
+		<postalCode>28020 Madrid<postalCode>
+		<province>Madrid</province>
+	</address>
+</addresses>

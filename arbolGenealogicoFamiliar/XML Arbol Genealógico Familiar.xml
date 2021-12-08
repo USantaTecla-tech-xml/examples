@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family>
+	<person id="k1" name="mama"/>
+	<person id="k2" name="papa"/>
+	<person id="k3" name="hermana la mayor"/>
+	<person id="k4" name="hermana mayor"/>
+	<person id="k5" name="hermano mayor"/>
+	<person id="k6" name="hermana mediana"/>
+	<person id="k7" name="hermano mediano"/>
+	<person id="k8" name="hermana pequeña"/>
+	<person id="k9" name="yo"/>
+	<person id="k10" name="cuñado de hermana la mayor"/>
+	<person id="k11" name="sobrino de hermana la mayor"/>
+	<person id="k12" name="sobrina de hermana la mayor"/>
+	<person id="k13" name="cuñado de hermana pequeña"/>
+	<person id="k14" name="cuñada de hermano pequeño"/>
+	<person id="k15" name="sobrino de hermano pequeño"/>
+	<person id="k16" name="sobrina de hermano pequeño"/>
+	<lineage>
+		<mother idref="k1"/>
+		<father idref="k2"/>
+		<children idref="k3"/>
+	</lineage>
+	<lineage>
+		<mother idref="k1"/>
+		<father idref="k2"/>
+		<children idref="k4"/>
+	</lineage>
+	<lineage>
+		<mother idref="k1"/>
+		<father idref="k2"/>
+		<children idref="k5"/>
+	</lineage>
+	<lineage>
+		<mother idref="k1"/>
+		<father idref="k2"/>
+		<children idref="k6"/>
+	</lineage>
+	<lineage>
+		<mother idref="k1"/>
+		<father idref="k2"/>
+		<children idref="k7"/>
+	</lineage>
+	<lineage>
+		<mother idref="k1"/>
+		<father idref="k2"/>
+		<children idref="k8"/>
+	</lineage>
+	<lineage>
+		<mother idref="k1"/>
+		<father idref="k2"/>
+		<children idref="k9"/>
+	</lineage>
+	
+	<lineage>
+		<mother idref="k3"/>
+		<father idref="k10"/>
+		<children idref="k11"/>
+	</lineage>
+	<lineage>
+		<mother idref="k7"/>
+		<father idref="k14"/>
+		<children idref="k15"/>
+	</lineage>
+	<lineage>
+		<mother idref="k7"/>
+		<father idref="k14"/>
+		<children idref="k16"/>
+	</lineage>
+</family>

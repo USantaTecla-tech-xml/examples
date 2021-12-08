@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+<course>Primaria</course>
+<group>1ºB</group>
+  <date>marzo 2019</date>
+   <hour start="7:25">
+    <class day="Lunes">Actividades Permanentes</class>
+    <class day="Martes">Actividades Permanentes</class>
+    <class day="Miércoles">Actividades Permanentes</class>
+    <class day="Jueves">Actividades Permanentes</class>
+    <class day="Viernes">Actividades Permanentes</class>
+   </hour>
+   <hour start="7:35">
+    <class day="Lunes">Comunicación</class>
+    <class day="Martes">Matemática</class>
+    <class day="Miércoles">Arte y Cultura</class>
+    <class day="Jueves">Matemática</class>
+    <class day="Viernes">Comunicación</class>
+   </hour>
+   <hour start="8:10">
+    <class day="Lunes">Comunicación</class>
+    <class day="Martes">Matemática</class>
+    <class day="Miércoles">Comunicación</class>
+    <class day="Jueves">Matemática</class>
+    <class day="Viernes">Comunicación</class>
+   </hour>
+   <hour start="8:45">
+    <class day="Lunes">Razonamiento Verbal</class>
+    <class day="Martes">Educación Fisica</class>
+    <class day="Miércoles">Matemática</class>
+    <class day="Jueves">Comunicación</class>
+    <class day="Viernes">Razonamiento Matemático</class>
+   </hour>
+   <hour start="9:20">
+    <class day="Lunes">Matemática</class>
+    <class day="Martes">Educación Fisica</class>
+    <class day="Miércoles">Matematica</class>
+    <class day="Jueves">Comunicación</class>
+    <class day="Viernes">Razonamiento Matemático</class>
+   </hour>
+   <hour start="9:55">
+    <class day="Lunes">Recreo</class>
+    <class day="Martes">Recreo</class>
+    <class day="Miércoles">Recreo</class>
+    <class day="Jueves">Recreo</class>
+    <class day="Viernes">Recreo</class>
+   </hour>
+   <hour start="10:30">
+    <class day="Lunes">Matemática</class>
+    <class day="Martes">Inglés</class>
+    <class day="Miércoles">Educación por el Trabajo</class>
+    <class day="Jueves">Ciencia Y Tecnología</class>
+    <class day="Viernes">Razonamiento Verbal</class>
+   </hour>
+   <hour start="10:50">
+    <class day="Lunes">Personal Social</class>
+    <class day="Martes">Inglés</class>
+    <class day="Miércoles">Ciencia Y Tecnología</class>
+    <class day="Jueves">Plan Lector</class>
+    <class day="Viernes">Educación por el Trabajo</class>
+   </hour>
+   <hour start="11:25"  end="12:00">
+    <class day="Lunes">Tutoría</class>
+    <class day="Martes">Personal Social</class>
+    <class day="Miércoles">Ciencia Y Tecnología</class>
+    <class day="Jueves">Arte Y Cultura</class>
+    <class day="Viernes">Religión</class>
+   </hour>
+</timetable>

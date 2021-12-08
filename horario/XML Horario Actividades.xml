@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable end="12:00">
+ <course>Primaria</course>
+  <group>B</group>
+   <date>marzo 2019</date>
+    <class name="Actividades Permanentes">
+      <date day="Lunes" start="7:25"/>
+      <date day="Martes" start="7:25"/>
+      <date day="Miércoles" start="7:25"/>
+      <date day="Jueves" start="7:25"/>
+      <date day="Viernes" start="7:25"/>
+    </class>
+    <class name="Comunicación">
+      <date day="Lunes" start="7:35"/>
+      <date day="Miércoles" start="8:10"/>
+      <date day="Jueves" start="7:25"/>
+      <date day="Viernes" start="7:35"/>
+    </class>
+     <class name="Matemática">
+       <date day="Lunes" start="9:20" start="10:30"/>
+       <date day="Martes" start="7:35"/>
+       <date day="Miércoles" start="8:45"/>
+       <date day="Jueves" start="7:35"/>
+    </class>
+    <class name="Arte Y Cultura">
+      <date day="Miércoles" start="7:35"/>
+      <date day="Jueves" start="11:25"/>
+    </class>
+    <class name="Razonamiento Verbal">
+      <date day="Lunes" start="8:45"/>
+      <date day="Viernes" start="10:30"/>
+    </class>
+    <class name="Educación Fisica">
+      <date day="Martes" start="8:45"/>
+    </class>
+    <class name="Razonamiento Matemático">
+      <date day="Viernes" start="8:45"/>
+    </class>
+    <class name="Recreo">
+      <date day="Lunes" start="9:55"/>
+      <date day="Martes" start="9:55"/>
+      <date day="Miércoles" start="9:55"/>
+      <date day="Jueves" start="9:55"/>
+      <date day="Viernes" start="9:55"/>
+    </class>
+    <class name="Inglés">
+      <date day="Martes" start="10:30"/>
+    </class>
+    <class name="Educación por el Trabajo">
+      <date day="Miércoles" start="10:30"/>
+      <date day="Viernes" start="10:50"/>
+    </class>
+    <class name="Ciencia Y Tecnología">
+      <date day="Miércoles" start="10:50"/>
+      <date day="Jueves" start="10:30"/>
+    </class>
+    <class name="Personal Social">
+      <date day="Lunes" start="10:50"/>
+      <date day="Martes" start="11:25"/>
+    </class>
+    <class name="Plan Lector">
+      <date day="Jueves" start="10:50"/>
+    </class>
+    <class name="Tutoría">
+      <date day="Lunes" start="11:25"/>
+    </class>
+    <class name="Religión">
+      <date day="Viernes" start="11:25"/>
+    </class>
+</timetable>

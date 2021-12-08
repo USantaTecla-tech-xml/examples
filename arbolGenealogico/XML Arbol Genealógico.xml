@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person name="Yo" gender="male">
+	<person name="madre" gender="female">
+		<person name="abuela materna" gender="female">
+			<person name="visabuela de abuela materna" gender="female"/>
+			<person name="visabuelo de abuela materna" gender="male"/>
+		<person name="abuelo materno" gender="male">
+			<person name="visabuela de abuelo materno" gender="female"/>
+			<person name="visabuelo de abuelo materno" gender="male"/>
+		</person>
+	</person>
+	<person name="padre" gender="male">
+		<person name="abuela paterna" gender="female"/>
+		<person name="abuelo paterno" gender="male"/>
+	</person>
+</person>

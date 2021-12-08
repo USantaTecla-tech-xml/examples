@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<familyTree>
+  <person name="Simona" relationship="hija">
+     <person name="Pavel" relationship="padre">
+        <person name="Piter" relationship="abueloPaterno"></person>
+        <person name="Sara" relationship="abuelaPaterna"></person>
+     </person>
+     <person name="Lina" relationship="madre">
+        <person name="Jose" relationship="abueloMaterno"></person>
+        <person name="Lara" relationship="abuelaMaterna"></person>
+     </person>
+    </person>
+</familyTree>

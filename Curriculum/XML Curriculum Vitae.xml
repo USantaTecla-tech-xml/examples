@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculumVitae>
+	<personalData>
+		<name>Michelle</name>
+		<surname>Torres Quiroz</surname>
+		<birthday day="23" month="12" year="1999"/>
+		<adress>
+			<street>Av. Siempreviva, nº17</street>
+			<village>Col. Anzures. 04575</village>
+			<country>Mexico</country>
+		</adress>
+		<telephone>55344595</telephone>
+		<e_mail>curriculum@gmail.com</e_mail>
+	</personalData>
+	<profile>Tengo un carácter de mujer emprendedora, porque en los negocios o actividades laborales,
+	suelo ser muy dinámica, responsable, puntual, puedo llevar la responsabilidad de un equipo de 
+	personas, visionaria, y sobre todo motivadora, etc.</profile>
+	<studies>
+		<degree start="2001" end="2005">
+			<title>Ciencias de la Comunicación</title>
+			<faculty>Ciencias de la Comunicación</faculty>
+			<university>Autónoma de México</university>
+		</degree>
+		<degree start="1996" end="2000">
+			<title>Derecho</title>
+			<faculty>Derecho</faculty>
+			<university>Autónoma de México</university>
+		</degree>
+	</studies>
+	<works>
+		<work start="2000" end="2011">
+			<charge>Asesor Jurídico</charge>
+			<company>Revista México</company>
+		</work>
+		<work start="2000" end="2011">
+			<charge>Creadora publicitaria y editora de revista y periódico</charge>
+		</work>
+		<work start="2008" end="2011">
+			<charge>Escritora de libros</charge>
+		</work>
+		<work start="2005" end="2011">
+			<charge>Creadora publicitaria de revista y periódico</charge>
+			<charge>Editora de revista y periódico</charge>
+			<country>Estados Unidos</country>
+			<country>Estados Unidos</country>
+		</work>
+	</works>
+	<skills>
+		<skill year="2008">
+			<description>Adiministrativas y contable</description>
+			<trainer mode="online">Constancia de la SEC</trainer>
+		</skill>
+		<skill>
+			<description>Windows office 2007</description>
+			<description>Excel</description>
+			<description>Word</description>
+			<description>Publisher</description>
+		</skill>
+		<skill>
+			<description>Adobe</description>
+			<description>Corel Draw</description>
+			<description>Photodeluxe</description>
+		</skill>
+		<skill>
+			<description>Equipo de Cómputo</description>
+			<description>Impresoras</description>
+			<description>Copiadoreas</description>
+		</skill>
+		<skill grade="90%">
+			<description>Inglés</description>
+		</skill>
+	</skills>
+</curriculumVitae>

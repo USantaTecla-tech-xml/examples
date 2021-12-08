@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<familyTree>
+	<persons>
+		<person id="K1" yearBirth="1830" yearDeath="1915" nickname="Pepino">Gabriel Aragón Fernández</person>
+		<person id="K2" yearBirth="1850" yearDeath="1930">Virginia Foureaux</person>
+		<person id="K3" nickname="Tonino">Arturo Aragón Foureaux</person>
+		<person id="K4" yearBirth="1887" yearDeath="1970" nickname="Pompoff">José María Aragón Foureaux</person>
+		<person id="K41" yearBirth="1933" yearDeath="1989">Víctor Aragón Hipkins</person>
+		<person id="K42" yearBirth="1989" yearDeath="1970" nickname="Pompoff">José María Aragón Foureaux</person>
+		<person id="K5" yearBirth="1885" yearDeath="1974" nickname="Thedy">Teodoro Aragón Foureaux</person>
+		<person id="K51" yearBirth="1913" yearDeath="1985" nickname="Zampabollos">Emilio Aragón Domínguez</person>
+		<person id="K6" yearBirth="1881" yearDeath="1946" nickname="Emig">Emilio Aragón Foureaux</person>
+		<person id="K61" yearBirth="1920" yearDeath="1995" nickname="Gaby">Gabriel Aragón Bermúdez </person>
+		<person id="K62" yearBirth="1923" yearDeath="1976" nickname="Fofó">Alfonso Aragón Bermúdez</person>
+		<person id="K63" yearBirth="1925" yearDeath="2018">Rocío Aragón Bermúdez</person>
+		<person id="K64" yearBirth="1929" yearDeath="2012" nickname="Miliki">Emilio Aragón Bermúdez</person>
+		<person id="K611" yearBirth="1971">Lara</person>
+		<person id="K612" yearBirth="1972">Gabri </person>
+		<person id="K613" yearBirth="1975">Rodrigo</person>
+		<person id="K614" yearBirth="1981">Gon</person>
+		<person id="K615" yearBirth="1985">Bebé</person>
+		<person id="K621" yearBirth="1949" nickname="Fofito">Alfonso Aragón Sac</person>
+		<person id="K622" yearBirth="1958" nickname="Rody">Rodolfo Aragón Sac</person>
+		<person id="K641" yearBirth="1954" >Rita Irasema Aragón Álvarez</person>
+		<person id="K642" yearBirth="1959" nickname="Milikito">Emilio Aragón Álvarez</person>
+		<person id="K6211" yearBirth="1073" >Mónica Aragón Fernández-Cuervo</person>
+		<person id="K6411" yearBirth="1977">Manuel Feijóo Aragón</person>
+	</persons>
+	<families>
+		<family>
+			<dad idref="K1"/>
+			<mother idref="K2"/>
+			<children idref="K3"/>
+			<children idref="K4"/>
+			<children idref="K5"/>
+			<children idref="K6"/>
+		</family>
+		<family>
+			<dad idref="K4"/>
+			<children idref="K41"/>
+			<children idref="K42"/>
+		</family>
+		<family>
+			<dad idref="K5"/>
+			<children idref="K51"/>
+		</family>
+		<family>
+			<dad idref="K6"/>
+			<children idref="K61"/>
+			<children idref="K62"/>
+			<children idref="K63"/>
+			<children idref="K64"/>
+		</family>
+		<family>
+			<dad idref="K61"/>
+			<children idref="K611"/>
+			<children idref="K612"/>
+			<children idref="K613"/>
+			<children idref="K614"/>
+			<children idref="K615"/>
+		</family>
+		<family>
+			<dad idref="K62"/>
+			<children idref="K621"/>
+			<children idref="K622"/>
+		</family>
+		<family>
+			<dad idref="K64"/>
+			<children idref="K641"/>
+			<children idref="K642"/>
+		</family>
+		<family>
+			<dad idref="K621"/>
+			<children idref="K6211"/>
+		</family>
+		<family>
+			<mother idref="K641"/>
+			<children idref="K6411"/>
+		</family>
+	</families>
+</familyTree>

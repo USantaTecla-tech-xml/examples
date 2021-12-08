@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+<course>Primaria</course>
+<group>1ºB</group>
+  <date>marzo 2019</date>
+    <day name="Lunes" end="12:00">
+      <class start="7:25">Actividades Permanentes</class>
+      <class start="7:35">Comunicación</class>
+      <class start="8:10">Comunicación</class>
+      <class start="8:45">Razonamiento Verbal</class>
+      <class start="9:20">Matemática</class>
+      <class start="9:55">Recreo</class>
+      <class start="10:30">Matemática</class>
+      <class start="10:50">Personal Social</class>
+      <class start="11:25">Tutoría</class>
+   </day>
+   <day name="Martes" end="12:00">
+     <class start="7:25">Actividades Permanentes</class>
+     <class start="7:35">Matemática</class>
+     <class start="8:10">Matemática</class>
+     <class start="8:45">Educación Fisica</class>
+     <class start="9:20">Educación Fisica</class>
+     <class start="9:55">Recreo</class>
+     <class start="10:30">Inglés</class>
+     <class start="10:50">Inglés</class>
+     <class start="11:25">Personal Social</class>
+   </day>
+   <day name="Miercoles" end="12:00">
+    <class start="7:25">Actividades Permanentes</class>
+    <class start="7:35">Arte Y Cultura</class>
+    <class start="8:10">Comunicación</class>
+    <class start="8:45">Matemática</class>
+    <class start="9:20">Matemática</class>
+    <class start="9:55">Recreo</class>
+    <class start="10:30">Educación por el Trabajo</class>
+    <class start="10:50">Ciencia Y Tecnologia</class>
+    <class start="11:25">Ciencia Y Tecnologia</class>
+   </day>
+   <day name="Jueves" end="12:00">
+    <class start="7:25">Actividades Permanentes</class>
+    <class start="7:35">Matemática</class>
+    <class start="8:10">Matemática</class>
+    <class start="8:45">Comunicación</class>
+    <class start="9:20">Comunicación</class>
+    <class start="9:55">Recreo</class>
+    <class start="10:30">Ciencia Y Tecnologia</class>
+    <class start="10:50">Plan Lector</class>
+    <class start="11:25">Arte Y Cultura</class>
+   </day>
+   <day name="Viernes" end="12:00">
+    <class start="7:25">Actividades Permanentes</class>
+    <class start="7:35">Comunicación</class>
+    <class start="8:10">Comunicación</class>
+    <class start="8:45">Razonamiento Matemático</class>
+    <class start="9:20">Razonamiento Matemático</class>
+    <class start="9:55">Recreo</class>
+    <class start="10:30">Razonamiento Verbal</class>
+    <class start="10:50">Educación por el Trabajo</class>
+    <class start="11:25">Religión</class>
+   </day>
+</timetable>

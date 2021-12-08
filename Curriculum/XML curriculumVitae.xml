@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curiculumVitae>
+  <personalInformation>
+	<name>Michele</name>
+	<lastName>Torres Quiroz</lastName>
+	<adress>
+		<number>17</number>
+		<avenue>Siempreviva</avenue>
+		<neighborhood>Col. Anzures</neighborhood>
+		<city>Mexico D.F.</city>
+		<postalCode>04565</postalCode>
+		</adress>
+		<phone>55344595</phone>
+		<email>curricilum@gmail.com</email>
+	</personalInformation>
+	<profile>tengo un caracter de mujer emprendadora, porque en los negocios o actividades laborales, suelo ser muy dinamica, responsable, puntual, puedo llevar la responsabilidad de un equipo de personas, visionaria, y sobre todo motivadora, ets.</profile>
+	<academicStudies>
+		<academicStudy>
+			<university startYear="2000" endYear="2005">Universidad Autonoma de Mexico</university>
+			<faculty>Facultad de Ciencias de la Comunicación</faculty>
+			<titulation>Linciatura en Ciencias de la Comunicación.</titulation>
+		</academicStudy>
+		<academicStudy>
+			<university startYear="1996" endYear="2000">Universidad Autónoma de México</university>
+			<faculty>Facultad de Derecho</faculty>
+			<titulation>Lisenciatura de Derecho.</titulation>
+		</academicStudy>
+	</academicStudies>
+	<workActivities>
+		<workActivity>
+			<work startyear="2000" endYear="2011">Asesor Juridico para Revista méxico.</work>
+		</workActivity>
+		<workActivity>
+			<work startyear="2000" endYear="2011">Creadora publicitaria y editora de revista y periodico</work>
+		</workActivity>
+		<workActivity>
+			<work startyear="2005" endYear="2011">Redactora de Articulos para website.</work>
+		</workActivity>
+		<workActivity>
+			<work startyear="2008" endYear="2011">Escritora de libros.</work>
+		</workActivity>
+		<countries>España</countries>
+		<countries>Estados Unidos</countries>
+		<countries>México</countries>
+	</workActivities>
+	<skills>
+		<knowledge>
+			<course proofYear="2008">Administrativas y contable</course>
+			<accomplished>online</accomplished>
+			<constancy>SEC</constancy>
+		</knowledge>
+		<knowledge>
+			<course versionYear="2007">Windows office</course>
+			<branches>Excel</branches>
+			<branches>Word</branches>
+			<branches>Publisher</branches>
+			<branches>adobe</branches>
+		</knowledge>
+		<knowledge>
+			<course>Equipo de computo</course>
+			<course>impresoras</course>
+			<course>copiadoras</course>
+		</knowledge>
+		<knowledge>
+			<course level="90%">Inglés</course>
+		</knowledge>
+	</skills>
+</curiculumVitae>
+
