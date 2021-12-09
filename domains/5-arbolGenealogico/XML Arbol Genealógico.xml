@@ -4,6 +4,7 @@
 		<person name="abuela materna" gender="female">
 			<person name="visabuela de abuela materna" gender="female"/>
 			<person name="visabuelo de abuela materna" gender="male"/>
+		</person>
 		<person name="abuelo materno" gender="male">
 			<person name="visabuela de abuelo materno" gender="female"/>
 			<person name="visabuelo de abuelo materno" gender="male"/>
@@ -14,3 +15,4 @@
 		<person name="abuelo paterno" gender="male"/>
 	</person>
 </person>
+
