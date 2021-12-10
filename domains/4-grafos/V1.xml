@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+    <node id="kA">node_A</node>
+    <node id="kB">node_B</node>
+    ...
+    <node id="kZ">node_Z</node>
+    <edge>
+        <from idref="kB"/>
+        <to idref="kA"/>
+    </edge>
+    <edge>
+        <from idref="kZ"/>
+        <to idref="kA"/>
+    </edge>
+    ...
+    <edge>
+        <from idref="kZ"/>
+        <to idref="kB"/>
+    </edge>
+</graph>

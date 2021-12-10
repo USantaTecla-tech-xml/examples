@@ -1,0 +1,14 @@
+<menu>
+    <title>Chrome</title>
+    <option>Nueva pestaña</option>
+    <option>Nueva ventana</option>
+    <option>Nueva ventana de incógnito</option>
+    ...
+    <menu>
+        <title>Ayuda</title>
+        <option>Información de Google Chrome</option>
+        <option>Centro de Ayuda</option>
+        <option>Notificar un error</option>
+    </menu>
+    <option>Salir</option>
+</menu>

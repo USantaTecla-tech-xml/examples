@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+    <node id="kA">
+        <data>node_A</data>
+    </node>
+    <node id="kB">
+        <data>node_B</data>
+        <edge idref="kA"/>
+    </node>
+    ...
+    <node id="kZ">
+        <data>node_Z</data>
+        <edge idref="kA"/>
+        <edge idref="kB"/>
+    </node>
+</graph>

@@ -1,0 +1,24 @@
+<tree>
+    <node>Elemento_1</node>
+    <tree>
+        <node>Elemento_11</node>
+        <tree>
+            <node>Elemento_111</node>
+        </tree>
+        <tree>
+            <node>Elemento_112</node>
+        </tree>
+        <tree>
+            <node>Elemento_113</node>
+            <tree>
+                <node>Elemento_1131</node>
+            </tree>
+            ...
+        </tree>
+        ...
+    </tree>
+    <tree>
+        <node>Elemento_12</node>
+    </tree>
+    ...
+</tree>

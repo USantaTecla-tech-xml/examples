@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <definitions>
-    <definition id="Proceso Unificado de Desarrollo">es un <refDefinition idref="proceso de desarrollo software"/> <refDefinition idref="basado en componentes"/>, <refDefinition idref="dirigido por Casos de Uso"/>, <refDefinition idref="centrado en la Arquitectura"/></definition>
+  <definition id="Proceso Unificado de Desarrollo">es un <refDefinition idref="proceso de desarrollo software"/>
+  <refDefinition idref="basado en componentes"/>, <refDefinition idref="dirigido por Casos de Uso"/>, <refDefinition idref="centrado en la Arquitectura"/></definition>
 </definitions>

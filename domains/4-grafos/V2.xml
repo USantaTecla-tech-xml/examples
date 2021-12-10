@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliography>
+    <book id="k1">
+        <author>Frederick P. Brooks</author>
+        <title>The Mythical Man Month. Essays on Software Engineering</title>
+        <year>1995</year>
+        <publisher>Prentice Hall</publisher>
+    </book>
+    <book id="k2">
+        <author>Grady Booch</author>
+        <title>Object Oriented Analysis and Design with Applications</title>
+        <year>2011</year>
+        <publisher>Addison-Wesley</publisher>
+    </book>
+    ...
+    <book id="k78">
+        <author>Robert C. Martin</author>
+        <title>Clean Code. A Handbook of Agile Software Craftsmanship</title>
+        <year>2008</year>
+        <publisher>Prentice Hall</publisher>
+        <reference idref="k1"/>
+        <reference idref="k2"/>
+    </book>
+    <reference>
+        <from idref="k2"/>
+        <to idref="k1"/>
+    </reference>
+    <reference>
+        <from idref="k78"/>
+        <to idref="k1"/>
+    </reference>
+    ...
+    <reference>
+        <from idref="k78"/>
+        <to idref="k2"/>
+    </reference>
+</bibliography>
