@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studies>
+    <study>
+        <name>Ingeniería del Software</name>
+        <course>Programación</course>
+        <course>Diseño</course>
+        <course>Pruebas</course>
+        <course>Análisis</course>
+        <course>Requisitos</course>
+        <course>Gestión</course>
+        ...
+    </study>
+    <study>
+        <name>Ingeniería Web</name>
+        <course>Visión General</course>
+        <course>Front-End Web</course>
+        <course>Front-End Móvil</course>
+        <course>Back-End de Código Abierto</course>
+        <course>Back-End de Código Libre</course>
+        <course>Back-End de Código Privativo</course>
+        ...
+    </study>
+    ...
+</studies>

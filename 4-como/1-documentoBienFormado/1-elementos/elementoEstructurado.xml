@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elementoEstructurado>
+    <subElemento1>informacion</subElemento1>
+    <subElemento2>informacion</subElemento2>
+    <!-- otros -->
+    <subElemento>informacion</subElemento>
+    <subElemento>informacion</subElemento>
+    <subElemento>informacion</subElemento>
+    <!-- otros -->
+    <subElementoN>informacion</subElementoN>
+</elementoEstructurado>  

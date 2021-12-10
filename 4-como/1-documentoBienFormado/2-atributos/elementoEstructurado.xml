@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elementoEstructurado>
+  <elementoTextual atributo="informacion">informacion</elementoTextual>
+  <elementoEstructurado atributo="informacion">
+      <subElemento>informacion</subElemento>
+      <subElemento atributo="informacion">informacion</subElemento>
+  </elementoEstructurado>
+  <elementoVacio atributo1="informacion" atributo2="informacion"/>
+  <elementoVacio atributo1="informacion" atributo2="informacion"></elementoVacio>
+</elementoEstructurado>

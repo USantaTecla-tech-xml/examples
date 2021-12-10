@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elementoEstructurado>
+    <subElemento>
+    informacion
+    </subElemento>
+    ...
+
+    <elementoEstructurado>
+    ...
+    </elementoEstructurado>
+
+    ...
+    <subElemento>
+    informacion
+    </subElemento>
+    <otroElemento>
+    informacion
+    </otroElemento>
+</elementoEstructurado>
+

@@ -1,0 +1,10 @@
+<author>
+    <name>Edsger Wybe</name>
+    <surname>Dijkstra</surname>
+    <birthday>
+        <day>11</day>
+        <month>5</month>
+        <year>1930</year>
+    </birthday>
+    <turingAward year="1972"/>
+</author>

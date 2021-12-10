@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adress>
+    <number>77</number>
+    <street>Massachusetts Avenue</street>
+    <village>Cambridge</village>
+    <county>Massachusetts</county>
+    <country>United States of America</country>
+    <postcode>02139</postcode>
+</adress>
