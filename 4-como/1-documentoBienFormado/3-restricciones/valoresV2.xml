@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <definitions>
-  <definition id="Proceso Unificado de Desarrollo">es un<refDefinition idref="proceso de desarrollo software"/>
-  <refDefinition idref="basado en componentes"/>,<refDefinition idref="dirigido por Casos de Uso"/>,<refDefinition idref="centrado en la Arquitectura"/></definition>
+  <definition id="Proceso Unificado de Desarrollo"> es un <refDefinition idref="proceso de desarrollo software"/>
+     con tres caracterísitcas: <refDefinition idref="basado en componentes"/>, 
+     <refDefinition idref="dirigido por Casos de Uso"/> y 
+     <refDefinition idref="centrado en la Arquitectura"/>.</definition>
+  <definition id="proceso de desarrollo software">es la aplicación 
+    de las actividades y procesos de mantenimiento del software que generan 
+    una nueva [blue]versión operativa de un software con una funcionalidad de usuario 
+    o propiedades cambiadas a partir de una versión anterior junto con los procesos 
+    y actividades de garantía de calidad y con la gestión de esos procesos
+    </definition>
 </definitions>

@@ -18,8 +18,6 @@
         <title>Clean Code. A Handbook of Agile Software Craftsmanship</title>
         <year>2008</year>
         <publisher>Prentice Hall</publisher>
-        <reference idref="k1"/>
-        <reference idref="k2"/>
     </book>
     <reference>
         <from idref="k2"/>
